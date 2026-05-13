@@ -1,0 +1,6 @@
+{
+  "name": "Calendly Mutual Scheduling",
+  "description": "A high-fidelity prototype of a calendar overlay that highlights mutual availability using mock OAuth flows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
